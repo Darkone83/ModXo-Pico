@@ -83,5 +83,5 @@ SD_EXP
 
 LPC:
 
-![alt_text](https://github.com/Darkone83/ModXo-Pico/blob/main/Images/SD_EXP.png?raw=true)
+![alt_text](https://github.com/Darkone83/ModXo-Pico/blob/main/Images/LPC.png?raw=true)
 
