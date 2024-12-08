@@ -28,6 +28,8 @@ Pin headers: <a href="https://www.aliexpress.us/item/3256806044686690.html?spm=a
 
 If hand soldering install LPC header first as clearance will be tight with surrounding passives
 
+Add-on modules from the ModXo-Basic are compatible with ModXo-Pico
+
 ## Where to get one
 
 You can download the gerbers and make your own or soon you will be able to purchase PCB's and assembled units @ <a href="https://www.darkonecustoms.com">Darkone Customs</a>
