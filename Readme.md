@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/Darkone83/ModXo-Pico/blob/main/Images/logo.png?raw=true) <img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/team-resurgent.png" width="180"> ![alt text](https://github.com/Darkone83/ModXo-Pico/blob/main/Images/DC%20logo.png?raw=true)
 
+<a href="https://discord.gg/k2BQhSJ"><img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/discord.svg"></a>
+
 A carrier board designed for ModXo V1.X, that compatible with the full-size Pi Pico and the YD2040 variants
 
 This is designed around Team Resutgent's and Shalx's work on ModXo an open-source modchip for the OG XBOX
