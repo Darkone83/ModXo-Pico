@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/Darkone83/ModXo-Pico/blob/main/Images/logo.png?raw=true) <img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/team-resurgent.png" width="180"> ![alt text](https://github.com/Darkone83/ModXo-Pico/blob/main/Images/DC%20logo.png?raw=true)
 
+<img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/Board_Pico.jpg" width=300><img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/Board_YD2040.jpg" width=300>
+
 <a href="https://discord.gg/k2BQhSJ"><img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/discord.svg"></a>
 
 A carrier board designed for ModXo V1.X, that compatible with the full-size Pi Pico and the YD2040 variants
@@ -32,13 +34,17 @@ If hand soldering install LPC header first as clearance will be tight with surro
 
 Add-on modules from the ModXo-Basic are compatible with ModXo-Pico
 
+RGB for the YD-RP2040 should be connected as follows for rev 1 boards. Future boards will connect to the RGB pad on the board.
+
+<img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/RGB_YD2040.jpg" width=175>
+
 ## Where to get one
 
 You can download the gerbers and make your own or soon you will be able to purchase PCB's and assembled units @ <a href="https://www.darkonecustoms.com">Darkone Customs</a>
 
-Assembled Boards: Comming Soon!
+Assembled Boards: <a href="https://www.darkonecustoms.com/store/p/modxo-pico-fully-assembled">Darkone Customs</a>
 
-PCB's: Comming soon!
+PCB's: <a href="https://www.darkonecustoms.com/store/p/modxo-pico-pcb">Darkone Customs</a>
 
 ## Navigation
 
@@ -49,6 +55,8 @@ Images: All images, branding, PCB renders, and schematics are located in this fo
 PCB: Gerbers and pick and place files are located in this folder
 
 # Installation
+
+<img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/Install_Pico.jpg" width=300><img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/Install_YD2040.jpg" width=300>
 
 ## 1.0 - 1.4
 
