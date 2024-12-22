@@ -6,7 +6,7 @@
 
 <a href="https://discord.gg/k2BQhSJ"><img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/discord.svg"></a>
 
-A carrier board designed for ModXo V1.X, that compatible with the full-size Pi Pico and the YD2040 variants
+A carrier board designed for ModXo V1.X, that is compatible with the full-size Pi Pico and the YD2040 variants of the RP2040. Add-ons from <a href="https://github.com/Darkone83/ModXo-Basic/tree/main/Addons">ModXo-Basic</a> are fully compatible with ModXo-Pico
 
 This is designed around Team Resutgent's and Shalx's work on ModXo an open-source modchip for the OG XBOX
 
