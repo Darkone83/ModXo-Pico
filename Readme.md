@@ -52,7 +52,7 @@ Root: BOM and IBOM are located here
 
 Images: All images, branding, PCB renders, and schematics are located in this folder. These images and schematics are for the carrier only all addon images and schematics are in their respective folders.
 
-PCB: Gerbers and pick and place files are located in this folder
+PCB: Gerbers and pick and place files are located in this folder. PCB.zip is the standard config, PCB_90_LPC.zip is the board rotated 90 degrees with USB facing the rear of the console, PCB_180_Fliped_Pico.zip is the stock orientation with the USB facing the GPU heatsink. 
 
 # Installation
 
