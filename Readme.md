@@ -54,7 +54,7 @@ Images: All images, branding, PCB renders, and schematics are located in this fo
 
 PCB: Gerbers and pick and place files are located in this folder. PCB.zip is the standard config, PCB_90_LPC.zip is the board rotated 90 degrees with USB facing the rear of the console, PCB_180_Fliped_Pico.zip is the stock orientation with the USB facing the GPU heatsink. 
 
-#### Note: 
+### Note: 
 Only PCB.zip will reflect the current schematic other gerbers are alternate designs.
 
 # Installation
