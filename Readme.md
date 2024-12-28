@@ -2,9 +2,9 @@
 
 ![alt text](https://github.com/Darkone83/ModXo-Pico/blob/main/Images/logo.png?raw=true) <img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/team-resurgent.png" width="180"> ![alt text](https://github.com/Darkone83/ModXo-Pico/blob/main/Images/DC%20logo.png?raw=true)
 
-<img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/Board_Pico.jpg" width=300><img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/Board_YD2040.jpg" width=300>
-
 <a href="https://discord.gg/k2BQhSJ"><img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/discord.svg"></a>
+
+<img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/Board_Pico.jpg" width=300><img src="https://github.com/Darkone83/ModXo-Pico/blob/main/Images/Board_YD2040.jpg" width=300>
 
 A carrier board designed for ModXo V1.X, that is compatible with the full-size Pi Pico and the YD2040 variants of the RP2040. Add-ons from <a href="https://github.com/Darkone83/ModXo-Basic/tree/main/Addons">ModXo-Basic</a> are fully compatible with ModXo-Pico
 
