@@ -4,7 +4,7 @@
 
 A simple module to add SD Card support to the ModXo-Pico
 
-![alt_image]{https://github.com/Darkone83/ModXo-Pico/blob/main/Addons/SD%20Expansion/SD%20Expansion%20Front.png)![alt_image](https://github.com/Darkone83/ModXo-Pico/blob/main/Addons/SD%20Expansion/SD%20Expansion%20Back.png)
+![alt_image](https://github.com/Darkone83/ModXo-Pico/blob/main/Addons/SD%20Expansion/SD%20Expansion%20Front.png)![alt_image](https://github.com/Darkone83/ModXo-Pico/blob/main/Addons/SD%20Expansion/SD%20Expansion%20Back.png)
 
 # Where can I get one?
 
